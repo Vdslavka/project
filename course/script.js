@@ -4,8 +4,8 @@ alert('hello')
 //console.log(resolt);
 
 
-//const answer = +prompt('Вам есть 18?', '')
-//console.log(answer + 5);
+const answer = +prompt('Вам есть 18?', '')
+console.log(answer + 5);
 
 const answers = [];
 
